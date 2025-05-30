@@ -1,0 +1,10 @@
+name: TUBES_BESAR_DSP
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scipy
+prefix: /home/thewinner/miniconda3/envs/TUBES_BESAR_DSP
