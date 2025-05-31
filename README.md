@@ -59,6 +59,25 @@ Berikut adalah daftar library Python yang digunakan dalam proyek ini, beserta fu
 
 ---
 
+## Logbook
+
+### Tanggal 27 Mei 2025
+
+- Inisialisasi github repo dan github project management untuk manajemen tugas besar "Digital Signal Processing"
+- Menambahkan folder fungsi, models, dan sampel.
+- Memulai pembuatan laporan.
+
+### Tanggal 30 Mei 2025
+
+- Menambahkan file main.py
+- Menambahkan modul pemrosesan_respirasi
+- Menambahkan modul pemrosesan_rppg
+- Menambahkan file environtment.yml dan requirement.txt
+
+### Tanggal 31 Mei 2025
+
+- Menperbaharui readme dan menambahkan file report
+
 ## Cara Menjalankan Program
 
 Dengan asumsi bahwa Anda sudah mempunyai environment manager seperti conda. maka buat environment baru seperti ini. Clone / fork lalu jalankan perintah ini.
